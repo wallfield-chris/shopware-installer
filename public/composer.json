@@ -1,0 +1,4 @@
+{
+  "name": "wallfield-chris/shopware-installer",
+  "require": { "php": "^8.2" }
+}
